@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DeviceAdmin</string>
+    <string name="admin_description">Grants this app device administrator privileges to enforce security policies, lock the screen, control camera access, and manage password requirements.</string>
+    <string name="channel_name">Admin Events</string>
+    <string name="channel_desc">Notifications from Termux bridge triggers</string>
+</resources>
